@@ -1,16 +1,15 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💙💙
 
-<!--
-**Massau2024/Massau2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Massau Ikeda
 
-Here are some ideas to get you started:
+Estudou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contato comigo 📫
+
+00001125464999sp@aluno.educacao.sp.gov.br
+@Massau2024
+
+
+![](https://tenor.com/pt-BR/view/cristiano-ronaldo-drinking-wink-smile-gif-17905179)
